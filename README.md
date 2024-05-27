@@ -1,6 +1,6 @@
 #  Cotações das Ações da B3 (Bovespa) usando Python  #
 
-
+```
 import pandas as pd
 
 # Define colunas e nomes
@@ -25,3 +25,4 @@ print(df)
 
 # Salva o DataFrame
 df.to_csv('cotacoes_b3.csv', index=False)
+```
