@@ -1,3 +1,6 @@
+#  Cotações das Ações da B3 (Bovespa) usando Python  #
+
+
 import pandas as pd
 
 # Define colunas e nomes
