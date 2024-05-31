@@ -1,5 +1,7 @@
 #  Cotações das Ações da B3 (Bovespa) usando Python  #
 
+<img src="https://github.com/eduardo-masiero/Cotacoes-Acoes-B3-Bovespa/B3_csv.png" alt="Logo da Minha Empresa">
+
 ```
 import pandas as pd
 
